@@ -1,13 +1,23 @@
 # SentiVerse_Project
 SentiVerse — AI Sentiment Analyzer
 Where words meet emotions. 💬
+
+
+
 Live Demo:https://senti-verse-sentiment-studio--iamanushka34.replit.app
+
+
+
+
 1. Project Title
 
 Problem 10 – AI Sentiment Analyzer
 
 Project Name: SentiVerse
 Tagline: Where words meet emotions.
+
+
+
 
 2. Problem Statement
 
@@ -20,6 +30,9 @@ Negative
 Neutral
 
 The application also displays the analysis result along with a basic explanation of the detected sentiment.
+
+
+
 
 3. Assigned Feature Set
 Feature Set A
@@ -63,6 +76,9 @@ Light Mode
 Dark Mode
 Responsive design
 Modern and user-friendly interface
+
+
+
 5. Technologies Used
 
 The project uses the following technologies:
@@ -78,6 +94,10 @@ Express.js – Backend server functionality
 PostgreSQL – Database
 Drizzle ORM – Database interaction
 pnpm – Package management
+
+
+
+
 6. AI Tools Used
 
 The following AI tools were used during the development of SentiVerse:
@@ -107,6 +127,10 @@ Documentation and README preparation
 
 AI tools were used as development assistance, and the generated suggestions were reviewed and adapted during the project development.
 
+
+
+
+
 7. Important AI Prompts Used
 Prompt 1 – Initial Project
 
@@ -132,6 +156,12 @@ Prompt 6 – Additional Input
 
 Add voice input and image input functionality to the SentiVerse sentiment analyzer while maintaining the existing text sentiment analysis features.
 
+
+
+
+
+
+
 8. AI Usage in the Project
 
 AI assistance was used throughout the development process for:
@@ -149,6 +179,12 @@ Documentation
 
 The final project was reviewed and modified according to the project requirements.
 
+
+
+
+
+
+
 9. User Interface
 
 SentiVerse follows a chatbot-style interface where users can interact with the sentiment analyzer in a simple and intuitive way.
@@ -163,6 +199,12 @@ User-friendly
 Easy to navigate
 
 The application provides both Light Mode and Dark Mode to allow users to choose their preferred appearance.
+
+
+
+
+
+
 
 10. Application Workflow
 
@@ -180,6 +222,11 @@ Basic explanation is provided
 ↓
 Analysis can be stored in History
 
+
+
+
+
+
 11. Screenshots of the Working Project
 
 Add screenshots of the completed and working website in this section.
@@ -189,13 +236,34 @@ Home Page
 <img width="1600" height="791" alt="1" src="https://github.com/user-attachments/assets/6200a5b0-0bc4-4d2f-b3e0-958f533efd37" />
 
 
+
+
+
+
+
 <img width="1600" height="800" alt="2 (2)" src="https://github.com/user-attachments/assets/7af060b4-066b-44f0-a0e7-6c1f3d6fde04" />
+
+
+
+
+
 
 
 <img width="1600" height="798" alt="3" src="https://github.com/user-attachments/assets/28f45126-82ba-4aa1-8a16-b53076cabdac" />
 
 
+
+
+
+
+
 <img width="1600" height="798" alt="4" src="https://github.com/user-attachments/assets/44b4adb7-0e1d-41b4-9b3f-be5960bd94a2" />
+
+
+
+
+
+
 
 
 12. Project Structure
@@ -211,7 +279,15 @@ SentiVerse_Project/
 ├── tsconfig.json
 ├── tsconfig.base.json
 └── README.md
-13. How to Run the Project
+
+
+
+
+
+
+
+
+14. How to Run the Project
 Prerequisites
 
 Make sure the following are installed:
@@ -235,6 +311,13 @@ Step 3 – Start the Application
 GitHub Repository:
 https://github.com/anushka-34-7/SentiVerse_Project.git
 
+
+
+
+
+
+
+
 16. Project Objective
 
 The main objective of SentiVerse is to provide a simple and interactive way to analyze the sentiment of user-provided text.
@@ -248,11 +331,24 @@ User Interface Design
 Frontend and Backend Technologies
 Database Integration
 AI-assisted Development
+
+
+
+
+
+
+
 17. Conclusion
 
 SentiVerse — Where words meet emotions. is an AI-powered sentiment analysis web application designed to identify whether a given text expresses a Positive, Negative, or Neutral sentiment.
 
 The project successfully addresses the assigned Feature Set A requirements of text input, sentiment classification, result display, and basic explanation. Additional features such as history, settings, voice input, image input, and light/dark themes make the application more interactive and user-friendly.
+
+
+
+
+
+
 
 18. Author
 
